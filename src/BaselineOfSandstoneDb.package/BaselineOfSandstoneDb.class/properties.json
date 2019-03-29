@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfSandstoneDb",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dkh 03/29/2019 12:46",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfSandstoneDb",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
