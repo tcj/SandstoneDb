@@ -1,0 +1,3 @@
+actions
+abortChanges: anObject
+	self subclassResponsibility

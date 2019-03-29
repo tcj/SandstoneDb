@@ -1,0 +1,16 @@
+{
+	"category" : "SandstoneDbTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "rjl 12/19/2007 20:41",
+	"instvars" : [
+		"mom",
+		"kid",
+		"store" ],
+	"name" : "SDActiveRecordTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

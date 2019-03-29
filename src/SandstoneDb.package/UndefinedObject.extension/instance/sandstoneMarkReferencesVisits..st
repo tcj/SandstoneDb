@@ -1,0 +1,3 @@
+*sandstonedb
+sandstoneMarkReferencesVisits: visitedParts
+	^ self

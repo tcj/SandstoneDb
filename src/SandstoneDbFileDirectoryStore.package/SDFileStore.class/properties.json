@@ -1,0 +1,14 @@
+{
+	"category" : "SandstoneDbFileDirectoryStore",
+	"classinstvars" : [
+		"serializer" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "rjl 8/10/2008 11:42",
+	"instvars" : [
+		 ],
+	"name" : "SDFileStore",
+	"pools" : [
+		 ],
+	"super" : "SDCachedStore",
+	"type" : "normal" }

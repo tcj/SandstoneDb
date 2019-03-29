@@ -1,0 +1,1 @@
+I'm a store for persisting active records directly to a dictionary to show what a minimal implementation of a store must to do pass the unit tests.

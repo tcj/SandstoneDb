@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"install" : "RamonLeon 5/9/2011 11:53" },
+	"instance" : {
+		"abortChanges:" : "rjl 8/14/2008 16:48",
+		"commit:" : "rjl 8/11/2008 19:19",
+		"defaultCacheSize" : "rjl 8/14/2008 15:37",
+		"ensureDown" : "rjl 8/14/2008 13:39",
+		"ensureForClass:" : "rjl 8/10/2008 11:46",
+		"forClass:" : "rjl 8/14/2008 20:41",
+		"forClass:at:ifAbsent:" : "rjl 8/14/2008 20:23",
+		"forClass:detect:ifFound:" : "rjl 8/14/2008 20:24",
+		"forClass:detect:ifNone:" : "rjl 8/14/2008 20:24",
+		"forClass:do:" : "RamonLeon 4/30/2011 18:07",
+		"forClass:findAll:" : "rjl 8/14/2008 20:27",
+		"loadClass:atId:" : "rjl 8/14/2008 20:50",
+		"recoverForClass:" : "rjl 8/10/2008 11:49",
+		"removeObject:" : "rjl 8/11/2008 19:13",
+		"storeObject:" : "rjl 8/11/2008 19:13",
+		"updateObject:" : "rjl 8/15/2008 01:32" } }

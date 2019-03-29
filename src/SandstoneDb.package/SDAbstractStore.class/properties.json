@@ -1,0 +1,14 @@
+{
+	"category" : "SandstoneDb-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "rjl 8/10/2008 11:41",
+	"instvars" : [
+		 ],
+	"name" : "SDAbstractStore",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

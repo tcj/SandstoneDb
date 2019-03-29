@@ -1,0 +1,1 @@
+I run as a background process to ensure the database is loaded and periodically save the image when enough active records are found to be newer than the image.  This is essentially just like flushing the contents of a transaction log to the main database file.

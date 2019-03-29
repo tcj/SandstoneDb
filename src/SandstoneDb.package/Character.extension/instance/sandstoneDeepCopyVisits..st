@@ -1,0 +1,3 @@
+*sandstonedb
+sandstoneDeepCopyVisits: visitedParts
+	^ self

@@ -1,0 +1,14 @@
+{
+	"category" : "SandstoneDbFileDirectoryStore",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SDFileStoreTests",
+	"pools" : [
+		 ],
+	"super" : "SDActiveRecordTests",
+	"type" : "normal" }

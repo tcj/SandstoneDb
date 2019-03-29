@@ -1,0 +1,3 @@
+factory
+grandChildClass
+	^ SDGrandChildMock 

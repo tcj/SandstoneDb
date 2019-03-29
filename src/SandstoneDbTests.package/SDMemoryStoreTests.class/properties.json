@@ -1,0 +1,14 @@
+{
+	"category" : "SandstoneDbTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SDMemoryStoreTests",
+	"pools" : [
+		 ],
+	"super" : "SDActiveRecordTests",
+	"type" : "normal" }

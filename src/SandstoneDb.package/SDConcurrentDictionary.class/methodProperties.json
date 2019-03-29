@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"on:" : "rjl 5/9/2008 20:11" },
+	"instance" : {
+		"," : "rjl 5/9/2008 21:40",
+		"associationsDo:" : "RamonLeon 4/28/2011 16:18",
+		"at:" : "RamonLeon 4/22/2011 00:39",
+		"at:ifAbsent:" : "rjl 5/9/2008 21:11",
+		"at:ifAbsentPut:" : "rjl 5/9/2008 20:53",
+		"at:put:" : "rjl 5/9/2008 20:53",
+		"detect:ifNone:" : "RamonLeon 4/22/2011 00:39",
+		"dictionary" : "rjl 8/5/2008 10:55",
+		"dictionary:" : "rjl 5/9/2008 20:11",
+		"do:" : "RamonLeon 4/22/2011 00:39",
+		"includesKey:" : "RamonLeon 4/22/2011 00:40",
+		"initialize" : "rjl 5/9/2008 21:35",
+		"keys" : "RamonLeon 4/22/2011 00:40",
+		"keysAndValuesDo:" : "RamonLeon 4/22/2011 00:40",
+		"keysDo:" : "RamonLeon 4/22/2011 08:48",
+		"removeAll" : "rjl 11/30/2008 13:00",
+		"removeKey:" : "rjl 11/30/2008 13:00",
+		"removeKey:ifAbsent:" : "rjl 5/9/2008 20:51",
+		"select:" : "RamonLeon 4/22/2011 00:41",
+		"values" : "RamonLeon 4/22/2011 00:40" } }

@@ -1,0 +1,20 @@
+{
+	"category" : "SandstoneDbTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"dateOfBirth",
+		"description",
+		"father",
+		"mother",
+		"children",
+		"buddy" ],
+	"name" : "SDPersonMock",
+	"pools" : [
+		 ],
+	"super" : "SDActiveRecord",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "SandstoneDb-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "rjl 4/10/2008 21:32",
+	"instvars" : [
+		"id",
+		"className" ],
+	"name" : "SDRecordMarker",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

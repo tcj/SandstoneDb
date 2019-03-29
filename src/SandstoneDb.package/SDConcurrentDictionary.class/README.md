@@ -1,0 +1,1 @@
+A SDConcurrentDictionary is just a dictionary wrapper so I can wrap a critical around mutating methods I need in ActiveRecord

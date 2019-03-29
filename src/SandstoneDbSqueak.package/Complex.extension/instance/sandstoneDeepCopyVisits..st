@@ -1,0 +1,3 @@
+*SandstoneDbSqueak
+sandstoneDeepCopyVisits: visitedParts
+	^ self

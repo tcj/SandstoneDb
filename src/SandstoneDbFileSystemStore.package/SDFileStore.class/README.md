@@ -1,0 +1,1 @@
+I'm a store for persisting active records directly to disk via a SmartReference stream with a few extentions to make it non interactive.'

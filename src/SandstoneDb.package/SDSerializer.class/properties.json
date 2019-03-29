@@ -1,0 +1,14 @@
+{
+	"category" : "SandstoneDb-Store",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SDSerializer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

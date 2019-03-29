@@ -1,0 +1,14 @@
+{
+	"category" : "SandstoneDb-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "rjl 8/5/2008 09:17",
+	"instvars" : [
+		 ],
+	"name" : "SDCheckPointer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

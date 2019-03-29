@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"isAbstract" : "rjl 8/10/2008 11:06" },
+	"instance" : {
+		"defaultStore" : "rjl 8/10/2008 11:05",
+		"testDeleteFailedCommits" : "rjl 8/10/2008 11:27",
+		"testDeleteOldVersions" : "rjl 8/10/2008 11:27",
+		"testFinishPartialCommits" : "rjl 8/10/2008 11:27",
+		"testLoadMissingFile" : "rjl 8/14/2008 20:50",
+		"testLoadTime" : "RamonLeon 5/8/2011 08:32",
+		"testSaveMissingFile" : "rjl 8/10/2008 11:27",
+		"testStorageDir" : "RamonLeon 5/5/2011 12:48" } }

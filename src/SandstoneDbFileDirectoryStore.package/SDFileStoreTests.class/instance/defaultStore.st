@@ -1,0 +1,3 @@
+defaults
+defaultStore
+	^ SDFileStore new

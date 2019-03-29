@@ -1,0 +1,3 @@
+*SandstoneDbSqueak
+sandstoneMarkReferencesVisits: visitedParts
+	^ self

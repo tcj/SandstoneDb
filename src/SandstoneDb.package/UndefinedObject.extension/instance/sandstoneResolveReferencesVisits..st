@@ -1,0 +1,3 @@
+*sandstonedb
+sandstoneResolveReferencesVisits: visitedParts 
+	^ self

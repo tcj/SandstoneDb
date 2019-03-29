@@ -1,0 +1,3 @@
+configuration
+maxRetries
+	^ 10

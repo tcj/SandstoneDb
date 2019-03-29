@@ -1,0 +1,15 @@
+{
+	"category" : "SandstoneDb-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "rjl 5/9/2008 20:58",
+	"instvars" : [
+		"lock",
+		"dictionary" ],
+	"name" : "SDConcurrentDictionary",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

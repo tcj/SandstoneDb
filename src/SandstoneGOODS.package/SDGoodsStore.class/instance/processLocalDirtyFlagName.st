@@ -1,0 +1,3 @@
+accessing
+processLocalDirtyFlagName
+	^ #SandstoneGoodsDirtyFlag

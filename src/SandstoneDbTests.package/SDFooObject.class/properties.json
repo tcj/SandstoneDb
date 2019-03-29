@@ -1,0 +1,14 @@
+{
+	"category" : "SandstoneDbTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"dict" ],
+	"name" : "SDFooObject",
+	"pools" : [
+		 ],
+	"super" : "SDActiveRecord",
+	"type" : "normal" }

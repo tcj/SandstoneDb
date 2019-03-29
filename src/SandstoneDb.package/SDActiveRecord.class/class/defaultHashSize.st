@@ -1,0 +1,3 @@
+defaults
+defaultHashSize
+	^ 100

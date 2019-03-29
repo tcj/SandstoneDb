@@ -1,0 +1,1 @@
+Part of the reason I did this project was to force myself to learn to do more unit testing.  I'm starting to learn to like it.

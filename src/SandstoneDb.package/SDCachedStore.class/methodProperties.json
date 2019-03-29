@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"abortChanges:" : "RamonLeon 4/22/2011 09:09",
+		"addCachedOfClass:at:put:" : "RamonLeon 4/21/2011 23:01",
+		"cachedLoadOfClass:from:" : "RamonLeon 10/9/2012 09:14",
+		"ensureForClass:" : "RamonLeon 4/22/2011 09:06",
+		"familyForClass:" : "RamonLeon 4/21/2011 23:44",
+		"forClass:" : "rjl 5/23/2009 17:47",
+		"forClass:at:ifAbsent:" : "RamonLeon 4/21/2011 22:52",
+		"forClass:detect:ifFound:" : "RamonLeon 4/21/2011 23:12",
+		"forClass:detect:ifNone:" : "RamonLeon 4/22/2011 00:02",
+		"forClass:do:" : "RamonLeon 4/21/2011 23:59",
+		"forClass:findAll:" : "RamonLeon 4/22/2011 00:10",
+		"initialize" : "RamonLeon 4/21/2011 22:58",
+		"initializeCache" : "RamonLeon 4/22/2011 08:57",
+		"removeCachedOfClass:from:" : "RamonLeon 4/21/2011 23:02",
+		"removeObject:" : "RamonLeon 4/22/2011 09:08",
+		"storeObject:" : "RamonLeon 4/21/2011 23:28" } }

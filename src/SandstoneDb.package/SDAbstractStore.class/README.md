@@ -1,0 +1,1 @@
+I'm an abstract store to define what's necessary to plug in a new method of storing active records.  When records are stored, they are already sliced out of the graph and have markers for any other references placed in them.  The store can serialize however it sees fit, but when loading, before returning the version from the store, it should resolve the references.'

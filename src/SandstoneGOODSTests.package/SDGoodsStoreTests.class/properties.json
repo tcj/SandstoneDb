@@ -1,0 +1,14 @@
+{
+	"category" : "SandstoneGOODSTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "nes 5/14/2009 11:38",
+	"instvars" : [
+		 ],
+	"name" : "SDGoodsStoreTests",
+	"pools" : [
+		 ],
+	"super" : "SDActiveRecordTests",
+	"type" : "normal" }

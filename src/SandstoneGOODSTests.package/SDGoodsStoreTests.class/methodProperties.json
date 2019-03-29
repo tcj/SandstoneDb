@@ -1,0 +1,7 @@
+{
+	"class" : {
+		"isAbstract" : "RamonLeon 4/22/2011 19:01" },
+	"instance" : {
+		"defaultStore" : "nes 5/11/2009 11:53",
+		"testClassSerialization" : "RamonLeon 4/23/2011 22:20",
+		"testSemaphorSerialization" : "RamonLeon 4/23/2011 22:20" } }

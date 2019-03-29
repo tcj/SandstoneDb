@@ -1,0 +1,14 @@
+{
+	"category" : "SandstoneDbTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SDWomanMock",
+	"pools" : [
+		 ],
+	"super" : "SDPersonMock",
+	"type" : "normal" }

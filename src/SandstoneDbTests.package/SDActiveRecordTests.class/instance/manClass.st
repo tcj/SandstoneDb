@@ -1,0 +1,3 @@
+factory
+manClass
+	^ SDManMock 

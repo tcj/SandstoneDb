@@ -1,0 +1,18 @@
+{
+	"category" : "SandstoneDb-Core",
+	"classinstvars" : [
+		"lock" ],
+	"classvars" : [
+		"Store" ],
+	"commentStamp" : "rjl 8/5/2008 09:35",
+	"instvars" : [
+		"id",
+		"createdOn",
+		"updatedOn",
+		"version",
+		"isNew" ],
+	"name" : "SDActiveRecord",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

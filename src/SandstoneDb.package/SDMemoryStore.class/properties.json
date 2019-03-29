@@ -1,0 +1,15 @@
+{
+	"category" : "SandstoneDb-Store",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Cache",
+		"Instances" ],
+	"commentStamp" : "rjl 8/10/2008 11:43",
+	"instvars" : [
+		 ],
+	"name" : "SDMemoryStore",
+	"pools" : [
+		 ],
+	"super" : "SDCachedStore",
+	"type" : "normal" }

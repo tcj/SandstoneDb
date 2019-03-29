@@ -1,0 +1,14 @@
+{
+	"category" : "SandstoneDb-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "rjl 4/10/2008 20:24",
+	"instvars" : [
+		 ],
+	"name" : "SDLoadError",
+	"pools" : [
+		 ],
+	"super" : "SDError",
+	"type" : "normal" }

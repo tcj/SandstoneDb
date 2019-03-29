@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"serializer" : "RamonLeon 5/31/2011 10:03",
+		"serializer:" : "RamonLeon 5/31/2011 10:03" },
+	"instance" : {
+		"commit:" : "rjl 8/11/2008 19:20",
+		"defaultBaseDirectory" : "rjl 8/9/2008 23:33",
+		"deleteFailedCommitsForClass:" : "rjl 8/10/2008 01:27",
+		"dirForClass:" : "rjl 9/18/2008 11:16",
+		"dirForClass:atId:" : "rjl 8/10/2008 01:27",
+		"dirNameFor:" : "rjl 8/10/2008 00:17",
+		"ensureDown" : "rjl 9/14/2008 08:38",
+		"ensureForClass:" : "RamonLeon 4/22/2011 09:07",
+		"familyForClass:" : "rjl 8/14/2008 20:44",
+		"finishPartialCommitsForClass:" : "rjl 8/10/2008 01:27",
+		"loadChangesForClass:" : "rjl 9/14/2008 08:40",
+		"loadClass:atId:" : "RamonLeon 10/9/2012 09:15",
+		"recoverForClass:" : "rjl 8/10/2008 01:24",
+		"removeObject:" : "RamonLeon 4/22/2011 09:08",
+		"storeObject:" : "RamonLeon 5/31/2011 10:14",
+		"updateObject:" : "rjl 8/15/2008 01:32" } }

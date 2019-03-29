@@ -1,0 +1,14 @@
+{
+	"category" : "SandstoneDb-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "rjl 4/10/2008 21:33",
+	"instvars" : [
+		 ],
+	"name" : "SDCommitError",
+	"pools" : [
+		 ],
+	"super" : "SDError",
+	"type" : "normal" }

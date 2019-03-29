@@ -1,0 +1,16 @@
+{
+	"category" : "SandstoneGOODS",
+	"classinstvars" : [
+		"host",
+		"port" ],
+	"classvars" : [
+		"CleanupProcess",
+		"ConnectionPool" ],
+	"commentStamp" : "nes 5/14/2009 11:37",
+	"instvars" : [
+		 ],
+	"name" : "SDGoodsStore",
+	"pools" : [
+		 ],
+	"super" : "SDAbstractStore",
+	"type" : "normal" }

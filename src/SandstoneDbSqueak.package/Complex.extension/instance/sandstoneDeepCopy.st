@@ -1,0 +1,3 @@
+*SandstoneDbSqueak
+sandstoneDeepCopy
+	^ self

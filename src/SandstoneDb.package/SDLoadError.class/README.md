@@ -1,0 +1,1 @@
+I'm thrown when an object fails to load from disk, either because the file was corrupt or because it was deleted.

@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"testPerson" : "rjl 4/1/2008 11:53" },
+	"instance" : {
+		"buddy" : "rjl 3/10/2008 21:44",
+		"buddy:" : "rjl 3/10/2008 21:44",
+		"children" : "rjl 12/11/2007 10:33",
+		"children:" : "rjl 12/11/2007 10:33",
+		"dateOfBirth" : "rjl 12/7/2007 17:07",
+		"dateOfBirth:" : "rjl 12/7/2007 17:07",
+		"description" : "rjl 12/7/2007 17:08",
+		"description:" : "rjl 12/7/2007 17:07",
+		"father" : "rjl 12/7/2007 17:07",
+		"father:" : "rjl 12/7/2007 17:07",
+		"mother" : "rjl 12/7/2007 17:07",
+		"mother:" : "rjl 12/7/2007 17:07",
+		"name" : "rjl 12/7/2007 17:07",
+		"name:" : "rjl 12/7/2007 17:07",
+		"refreshed" : "rjl 4/22/2008 10:45" } }

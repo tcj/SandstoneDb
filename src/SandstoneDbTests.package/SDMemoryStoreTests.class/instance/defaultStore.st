@@ -1,0 +1,3 @@
+defaults
+defaultStore
+	^ SDMemoryStore new

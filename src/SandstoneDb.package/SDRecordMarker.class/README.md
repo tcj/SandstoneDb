@@ -1,0 +1,1 @@
+I exist to mark a reference to another object in the serialized file, I'm replaced by a real object when I'm deserialized.  I'm basically a manually invoked proxy being used because getting a real proxy that inherits from ProtoObject to serialize seemed hurculean.

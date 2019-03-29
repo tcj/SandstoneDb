@@ -1,0 +1,3 @@
+*sandstonedb-testing
+isSandstoneMarker
+	^ false

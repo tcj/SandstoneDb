@@ -1,0 +1,3 @@
+testing
+isSandstoneMarker
+	^ true

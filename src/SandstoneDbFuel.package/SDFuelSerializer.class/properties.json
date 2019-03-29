@@ -1,0 +1,14 @@
+{
+	"category" : "SandstoneDbFuel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SDFuelSerializer",
+	"pools" : [
+		 ],
+	"super" : "SDSerializer",
+	"type" : "normal" }
