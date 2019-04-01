@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #'BaselineOfSandstoneDb'!
+SystemOrganization addCategory: #BaselineOfSandstoneDb!
