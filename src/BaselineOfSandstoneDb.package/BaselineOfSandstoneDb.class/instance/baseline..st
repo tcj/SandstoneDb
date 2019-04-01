@@ -22,7 +22,7 @@ baseline: spec
 			spec
 				package: 'SandstoneDbSqueak' with: [ spec requires: 'SandstoneDb' ];
 				package: 'SandstoneDbFileDirectoryStore'
-					with: [ spec requires: 'SandstoneDb' ];
+					with: [ spec requires: #('SandstoneDb' 'SandstoneDbTests') ];
 				package: 'SandstoneDb'
 					with: [ spec includes: 'SandstoneDbFileDirectoryStore' ];
 				yourself ].
