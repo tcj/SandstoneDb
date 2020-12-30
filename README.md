@@ -7,11 +7,11 @@ SandstoneDb has been [available via SqueakSource](http://squeaksource.com/Sandst
 
 From the class comment of `SDActiveRecord`:
 
-```I'm the core of a simple object database based upon a mix of several patterns intended for use with *small* Seaside based web applications.  I am not meant to scale to millions of records, just tens of thousands, but for prototyping and small office applications where the number of records are in the thousands and the number of concurrent users can be handled by a single Squeak image.  To use me, simply subclass me and restart your image that's it.```
+>I'm the core of a simple object database based upon a mix of several patterns intended for use with *small* Seaside based web applications.  I am not meant to scale to millions of records, just tens of thousands, but for prototyping and small office applications where the number of records are in the thousands and the number of concurrent users can be handled by a single Squeak image.  To use me, simply subclass me and restart your image that's it.```
 
 ### Platforms
 
-I have tested this in Squeak 5.2.
+I have tested this in [Squeak](https://squeak.org) 5.2.
 
 The baseline is intended to also support Pharo, but I have not tested it.
 
@@ -22,11 +22,11 @@ I am in the habit of cloning GitHub projects outside of Squeak and then adding F
 ```Smalltalk
 Metacello new 
 	baseline: 'SandstoneDb';
-	repository: 'filetree://Users/you/src/SandstoneDb/src';
+	repository: 'filetree://Users/yournamehere/src/SandstoneDb/src';
 	load
 ```
 
-In the future, this may also work, without needing to clone the repo first:
+In the future, the following may also work, without needing to clone the repo first:
 
 ```Smalltalk
 Metacello new 
