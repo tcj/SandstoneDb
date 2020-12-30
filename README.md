@@ -35,6 +35,10 @@ Metacello new
         load
 ```
 
+## License
+
+Code commited to this repository will be automatically under [MIT](http://www.opensource.org/licenses/mit-license.php) license.
+
 ## Acknowledgments
 
 * [Camp Smalltalk 2019](https://twitter.com/campsmalltalkna) and its hosts and sponsors
