@@ -31,7 +31,7 @@ In the future, the following may also work, without needing to clone the repo fi
 ```Smalltalk
 Metacello new 
         baseline: 'SandstoneDb';
-        repository: 'github://tcj/SandstoneDb:master/src';
+        repository: 'github://tcj/SandstoneDb:main/src';
         load
 ```
 
