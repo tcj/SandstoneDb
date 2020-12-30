@@ -3,7 +3,7 @@ FileTree and Metacello version of [Ramon Leon's SandstoneDb](http://onsmalltalk.
 
 ## History of this repo
 
-SandstoneDb has been [available via SqueakSource](http://squeaksource.com/SandstoneDb.html).  At Camp Smalltalk 2019, [Dale Henrichs](https://github.com/dalehenrich/) graciously helped me make this available in FileTree/Metacello format.  That is this repo.
+SandstoneDb has been [available via SqueakSource](http://squeaksource.com/SandstoneDb.html).  At Camp Smalltalk 2019, [Dale Henrichs](https://github.com/dalehenrich/) graciously helped me make this available in FileTree/Metacello format with the author's permission.  That is this repo.
 
 From the class comment of `SDActiveRecord`:
 
